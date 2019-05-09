@@ -1,0 +1,46 @@
+
+
+/*About Me section*/
+.iconContainer {
+  width: 100%;
+  margin-top: 5em;
+}
+
+.hexagon-container {
+  width: 50%;
+  display: flex;
+}
+.hexagon-container.right {
+  padding-top: 0em;
+}
+
+/*Skills*/
+.skill-lockup {
+  float: left;
+  width: 100%;
+}
+.skill-unit {
+  width: 50%;
+  float: left;
+  margin: 0 auto;
+}
+
+/*Start of Portfolio*/
+.gallery figure {
+  width: 25%;
+  float: left;
+  padding: .8em;
+}
+
+/*Case Study Section*/
+
+#caceStudy figure {
+  width: 35%;
+  float: left;
+  margin: 58px 1em .5em 0;
+}
+#caceStudy figure img {
+  width: 100%;
+  border: 5px solid #b68f56;
+  box-shadow: 0px 4px 5px #ccc;
+}
